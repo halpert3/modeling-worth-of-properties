@@ -64,8 +64,7 @@ If all other variables stay constant:
 - If a house is located on a waterfront, it is expected to be worth $143,200
 - Houses renovated within the last 25 years are expected to be worth $21,180 more.
 - Each additional floor added to a house is expected to increase its worth $29,520.
--  The model does not incorporate the age of houses built since 1980. Houses in older age groups tend to be worth more, perhaps because of urban locations.  
-  - 1900-1919
+- The model does not incorporate the age of houses built since 1980. Houses in older age groups tend to be worth more, perhaps because of urban locations. 
 
 
 
