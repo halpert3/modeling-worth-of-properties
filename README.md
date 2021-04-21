@@ -59,9 +59,9 @@ If all other variables stay constant:
 
 #### Other data
 
-- For every grade a house increases, its value is expected to rise $112,000 
-- Houses in an active market command higher prices than similar houses in less active markets
-- If a house is located on a waterfront, it is expected to be worth $143,200
+- For every grade a house increases, its value is expected to rise $112,000. 
+- Houses in an active market command higher prices than similar houses in less active markets.
+- If a house is located on a waterfront, it is expected to be worth $143,200 more.
 - Houses renovated within the last 25 years are expected to be worth $21,180 more.
 - Each additional floor added to a house is expected to increase its worth $29,520.
 - The model does not incorporate the age of houses built since 1980. Houses in older age groups tend to be worth more, perhaps because of urban locations. 
