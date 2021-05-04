@@ -10,6 +10,7 @@ The main notebooks in this repository are:
 - 2_Iterative_Modeling
 
 
+Link to [Medium blog post about this project.](https://halpert3.medium.com/using-linear-regression-to-gain-insight-into-housing-sales-130a0d60e0e3)
 
 # Process and Tools
 
